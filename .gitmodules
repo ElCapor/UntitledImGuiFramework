@@ -61,3 +61,6 @@
 [submodule "Framework/Modules/OS/ThirdParty/UntitledOpen"]
 	path = Framework/Modules/OS/ThirdParty/UntitledOpen
 	url = https://github.com/MadLadSquad/UntitledOpen.git
+[submodule "Projects/LuaDebugger/luau"]
+	path = Projects/LuaDebugger/luau
+	url = https://github.com/luau-lang/luau.git

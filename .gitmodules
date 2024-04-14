@@ -64,3 +64,6 @@
 [submodule "Projects/LuaDebugger/luau"]
 	path = Projects/LuaDebugger/luau
 	url = https://github.com/luau-lang/luau.git
+[submodule "Projects/LuaDebugger/ImGuiColorTextEdit"]
+	path = Projects/LuaDebugger/ImGuiColorTextEdit
+	url = https://github.com/ElCapor/ImGuiColorTextEdit.git
